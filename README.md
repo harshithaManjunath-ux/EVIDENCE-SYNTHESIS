@@ -32,7 +32,7 @@ spanning 2006–2024.
 ## PROJECT FOLDER CONTENTS
 
 ### 1. Published Protocol
-**File:** [1) PUBLISHED PROTOCOL](EVIDENCE SYNTHESIS/PROJECT FOLDER/1) PUBLISHED PROTOCOL.pdf)
+**File:** [Published Protocol](EVIDENCE%20SYNTHESIS/PROJECT%20FOLDER/Published-Protocol.pdf)
 
 The peer-reviewed and published systematic review protocol, accepted in 
 *JBI Evidence Synthesis* (2025). It outlines the full methodological 
