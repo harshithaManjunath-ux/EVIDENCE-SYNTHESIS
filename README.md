@@ -32,7 +32,7 @@ spanning 2006–2024.
 ## PROJECT FOLDER CONTENTS
 
 ### 1. Published Protocol
-**File:** `[Published_Protocol.pdf](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/1)%20PUBLISHED%20PROTOCOL.pdf)`
+**File:** [1) PUBLISHED PROTOCOL.pdf](PROJECT FOLDER/1) PUBLISHED PROTOCOL.pdf)
 
 The peer-reviewed and published systematic review protocol, accepted in 
 *JBI Evidence Synthesis* (2025). It outlines the full methodological 
