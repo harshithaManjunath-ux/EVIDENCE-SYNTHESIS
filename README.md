@@ -103,7 +103,7 @@ a narrative summary, in line with JBI methodology.
 ---
 
 ### 6. Data Extraction Table
-**File:** [6-DATA EXTRACTION](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/6)
+**File:** [6-DATA EXTRACTION](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/6-DATA%20EXTRACTION.xlsx)
 
 A structured data extraction table covering all 15 included studies, 
 developed using the standardised JBI SUMARI extraction framework and 
