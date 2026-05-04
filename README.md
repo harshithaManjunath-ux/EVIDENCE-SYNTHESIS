@@ -32,7 +32,7 @@ spanning 2006–2024.
 ## PROJECT FOLDER CONTENTS
 
 ### 1. Published Protocol
-**File:** [Published Protocol](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/Published-Protocol.pdf))
+**File:** [Published Protocol](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/1-Published-Protocol.pdf)
 
 The peer-reviewed and published systematic review protocol, accepted in 
 *JBI Evidence Synthesis* (2025). It outlines the full methodological 
@@ -48,7 +48,7 @@ framework for the review, including:
 ---
 
 ### 2. PRISMA-P Checklist
-**File:** `[PRISMA-P_Checklist_FINAL.docx](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/3)%20PRISMA-P%20CHECKLIST.pdf)`
+**File:** [2-PRISMA-P CHECKLIST](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/2-PRISMA-P%20CHECKLIST.pdf)
 
 A completed **PRISMA-P 2015 checklist** mapped against the published 
 protocol, demonstrating full adherence to international reporting standards 
@@ -59,7 +59,7 @@ corresponding protocol sections and line numbers.
 
 ---
 ### 3. Search Strategies
-**File:** `[PRISMA_Flow_Chart](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/2)%20SEARCH%20STRATEGIES.pdf)`
+**File:** [3-SEARCH STRATAEGY](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/3-SEARCH%20STRATEGIES.pdf)
 
 Comprehensive, reproducible database search strategies were developed using 
 **Medical Subject Headings (MeSH)** and Boolean operators across 11 
@@ -74,7 +74,7 @@ WHO · Shodhganga · Clinicaltrials.gov
 ---
 
 ### 4. PRISMA Flow Chart
-**File:** `[PRISMA_Flow_Chart](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/4)%20PRISMA%20FLOW%20CHART.pdf)`
+**File:** [4-PRISMA FLOW CHART](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/4-PRISMA%20FLOW%20CHART.pdf)
 
 A **PRISMA 2020-compliant flow diagram** documenting the full study 
 selection process — from initial database hits through deduplication, 
@@ -85,7 +85,7 @@ stage, demonstrating rigour and reproducibility in the screening process.
 ---
 
 ### 5. Critical Appraisal
-**File:** `[Critical_Appraisal](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/5)%20CRITICAL%20APPRAISAL%20SUMMARIES.pdf)` 
+**File:** [5-CRITICAL APPRAISAL](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/5-CRITICAL%20APPRAISAL%20SUMMARIES.pdf)
 
 Methodological quality assessment of all included studies using 
 standardised **JBI critical appraisal tools**, selected according to study 
@@ -103,7 +103,7 @@ a narrative summary, in line with JBI methodology.
 ---
 
 ### 6. Data Extraction Table
-**File:** `[Data_Extraction_Table_MAIN.xlsx](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/6)%20DATA%20EXTRACTION.xlsx)`
+**File:** [6-DATA EXTRACTION](https://github.com/harshithaManjunath-ux/EVIDENCE-SYNTHESIS/blob/main/PROJECT%20FOLDER/6)
 
 A structured data extraction table covering all 15 included studies, 
 developed using the standardised JBI SUMARI extraction framework and 
